@@ -37,7 +37,7 @@
       <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
     </proxy>
      <proxy>
-      <id>http</id>
+      <id>https</id>
       <active>true</active>
       <protocol>https</protocol>
       <!--<username>proxyuser</</username>
